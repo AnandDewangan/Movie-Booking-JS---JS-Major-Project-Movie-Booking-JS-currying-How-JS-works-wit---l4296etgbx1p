@@ -24,7 +24,12 @@
      height: 300px;
      width: 200px;
  }
- 
+ .d-block{
+    display: block;
+ }
+ .d-none{
+    display: none;
+ }
  .movie-holder{
      display: flex;
      justify-content: space-evenly;
